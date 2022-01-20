@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Test Suit" verbose="10">
+<test name="Test Cases">
+<classes>
+<class name="testNG.DependsOn"></class>
+<class name="testNG.Priority"></class>
+<class name="testNG.SkipTestCase"></class>
+</classes>
+</test>
+</suite>
